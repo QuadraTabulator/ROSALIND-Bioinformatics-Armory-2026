@@ -1,2 +1,2 @@
 # ROSALIND Bioinformatics Armory 2026
-Practice code as part of Darryl Fung's portfolio
+Study and practice code as part of Darryl Fung's portfolio
