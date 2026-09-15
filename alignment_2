@@ -1,0 +1,97 @@
+########################################
+# Program: needle
+# Rundate: Mon 14 Sep 2026 23:45:29
+# Commandline: needle
+#    -asequence sequence1_forneedle.fasta
+#    -bsequence sequence2_forneedle.fasta
+#    -gapopen 10
+#    -gapextend 1
+#    -endweight
+#    -endopen 10
+#    -endextend 1
+#    -outfile alignment_2
+# Align_format: srspair
+# Report_file: alignment_2
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: JQ796071.1
+# 2: JQ712981.1
+# Matrix: EDNAFULL
+# Gap_penalty: 10.0
+# Extend_penalty: 1.0
+#
+# Length: 746
+# Identity:     326/746 (43.7%)
+# Similarity:   326/746 (43.7%)
+# Gaps:         288/746 (38.6%)
+# Score: 310.0
+# 
+#
+#=======================================
+
+JQ796071.1         1 -TGGTATCACGCAGAGTACATGGGGTAAAGAGCAAATCATAATATCAACG     49
+                      ||...||   ||| .||..||.|   |.||.|..||..|..|| |.|.|
+JQ712981.1         1 ATGCCCTC---CAG-CTAATTGCG---ATGATCCCATTTTGCTA-CCAGG     42
+
+JQ796071.1        50 TAAATAATCTTGAAC--GAGCAGGAAGTTGTGAAAATC--TAGTGAAGTC     95
+                     .||||..|.|..|||  |..|.|||      ||||| |  ||..|||.| 
+JQ712981.1        43 CAAATGCTGTAAAACATGCCCCGGA------GAAAA-CAATACGGAAAT-     84
+
+JQ796071.1        96 TGGAACTTGAAAATATAATTTACTTAACTGCT---------GTAGAAGAA    136
+                       ||  ||.||.||..|   .||..|||..||         |.|||||||
+JQ712981.1        85 --GA--TTCAAGATCAA---GACCCAACACCTTTCAACATCGAAGAAGAA    127
+
+JQ796071.1       137 ATATAATTAAAATACGAAA-AT---GAAGTTTCAAT-ACAAGGAAGACCA    181
+                         .|....||||.|||| ||   |.||.|..|.| |||.|.|||| ||
+JQ712981.1       128 ----GAGCGCAATATGAAACATTTCGCAGCTCTACTCACAGGAAAGA-CA    172
+
+JQ796071.1       182 T-GCATTT--------GAGAAGAGACGCGCTG-------AAGGAGACAAA    215
+                     | .|||||        |||||||.|| ..|||       ||.|   ||.|
+JQ712981.1       173 TCCCATTTCCTCCGGAGAGAAGATAC-TACTGTTTCTTCAATG---CATA    218
+
+JQ796071.1       216 ATACGTAGGAAGTACCCAGACCGTGTACCAGTCATTGTGGAGAAGGCGCC    265
+                     ||             |||.|...|.||..||.||..|       ||||..
+JQ712981.1       219 AT-------------CCAAATAATTTAATAGCCACCG-------GGCGTT    248
+
+JQ796071.1       266 TAAGGCACGCATTGGTGATTTAGACAAGAAAAAGTATTTGGTTCCATCTG    315
+                     |.|              ||||..|.|||||||             |||| 
+JQ712981.1       249 TCA--------------ATTTTCAAAAGAAAA-------------ATCT-    270
+
+JQ796071.1       316 ACCTAACAGTTGGTCAATTC-TACTTCTTAATTCGC-AAGCGTATACATT    363
+                       |||         |.|||| |.||.|.|||.| || ||   ||.|||..
+JQ712981.1       271 --CTA---------CTATTCATTCTACGTAAGT-GCTAA---TAAACAAA    305
+
+JQ796071.1       364 TGCG----CCCAGAA-GATGCA--TTGTTCTTCTTCGTTAACAATGTAAT    406
+                     ||.|    ||.|.|| .||.||  |||||             ||||    
+JQ712981.1       306 TGGGAAGACCAACAACAATACAATTTGTT-------------AATG----    338
+
+JQ796071.1       407 TCCTCCAACATCGGCTACTATGGGATCTCTATATCAG--GAACATCAC-G    453
+                            ||.|||| ||           |.||||.||  ||||||.|| .
+JQ712981.1       339 -------ACGTCGG-TA-----------CAATATTAGAAGAACATAACTT    369
+
+JQ796071.1       454 AAGAAGAT-----TATTTCCTGTACATTGCCTATTCTGATGAAAACGTAT    498
+                     ||.||.||     .||    .||.|.|||..|.|  |.||||.||   ||
+JQ712981.1       370 AACAACATCGACAAAT----GGTCCCTTGAGTGT--TTATGAGAA---AT    410
+
+JQ796071.1       499 --ATGGCAAAAACTAAGTAGCATTCACATTTTGGGGGAAGGCGTGTATTG    546
+                       |.||.|||||                 ||||.|       |.||||.|
+JQ712981.1       411 CAACGGGAAAAA-----------------TTTGTG-------GCGTATGG    436
+
+JQ796071.1       547 CGGCGTTT---GAAAAACTGTAA---------------------------    566
+                     ||.||..|   ||||.|||..||                           
+JQ712981.1       437 CGTCGCATACCGAAAGACTACAAACGATTACTACGAGATGGACGACCTCA    486
+
+JQ796071.1       567 --TCGGGTTGCTGTATTGCGAAGAAAATT-----ACAAAAAAAAA----A    605
+                       |||.|||  ..|||.||||..||.|||     |||..|||.||    |
+JQ712981.1       487 TGTCGTGTT--ATTATGGCGATCAACATTGCTTGACACTAAACAAGTTGA    534
+
+JQ796071.1       606 A---------------AAAAAAAAAAAAAA------------AAAA    624
+                     |               ||||...|.|||.|            .|..
+JQ712981.1       535 ATTGGCGTTAGGTGGCAAAATTGATAAATACTGGGCGTTGTCCAGC    580
+
+
+#---------------------------------------
+#---------------------------------------
